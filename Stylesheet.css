@@ -44,7 +44,7 @@ hr
 
 .content { padding: 1em 1.25em; }
 h1 {
-    font-family: cursive;
+    font-family: 'Raleway', sans-serif;
 }
-h2{font-family: sans-serif;}
-p{font-family: serif}
+h2{font-family: 'Roboto Condensed', sans-serif;}
+p{font-family: 'Open Sans Condensed', sans-serif;}
